@@ -1,0 +1,17 @@
+{
+  "name": "arena-analytics-vip",
+  "version": "1.0.0",
+  "description": "Arena Analytics VIP - Express API",
+  "main": "gemini-code-1789324393111.js",
+  "scripts": {
+    "start": "node gemini-code-1789324393111.js",
+    "dev": "node --watch gemini-code-1789324393111.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3"
+  }
+}
